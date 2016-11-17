@@ -1,0 +1,20 @@
+{
+  "name": "ifttt_telegram_bot",
+  "version": "1.0.0",
+  "description": "ifttt_telegram_bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ICS",
+  "private": "true",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "colors": "*.*.*",
+    "continuation-local-storage": "^3.1.7",
+    "express": "^4.13.4",
+    "telegram-bot-api": "*.*.*"
+  }
+}
