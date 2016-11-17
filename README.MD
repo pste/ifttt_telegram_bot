@@ -5,10 +5,10 @@ This bot can send you telegram messages, as a result of a notification.
 
 ## Applet example
 
-IF 
-  it's 4pm o'clock
-THEN
-  Maker action (https://ifttt.com/maker) to your personal notification url with a custom payload
+* IF 
+  *  it's 4pm o'clock
+* THEN
+  *  Maker action (https://ifttt.com/maker) to your personal notification url with a custom payload
 
 The bot handles the request and send you a custom chat message.
   
